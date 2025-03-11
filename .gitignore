@@ -1,9 +1,11 @@
 # macOS system files
 .DS_Store
 
-# Xcode project files
-*.xcodeproj/
-*.xcworkspace/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
 
 # Build files
 build/
